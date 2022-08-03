@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3whYG6nNYfvJTkfXJeLrqJphstnTA6AMRIG4KiVdZbtfOR4zrjxmazyDuZ3ctAWJB2RNoLIetZ8+YKtw41zctQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\PRD电气\\PRD电气.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

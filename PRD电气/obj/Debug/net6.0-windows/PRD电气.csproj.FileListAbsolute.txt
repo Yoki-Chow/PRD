@@ -1,0 +1,44 @@
+C:\Users\Yoki Chau\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.exe
+C:\Users\Yoki Chau\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.deps.json
+C:\Users\Yoki Chau\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.runtimeconfig.json
+C:\Users\Yoki Chau\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.dll
+C:\Users\Yoki Chau\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.pdb
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.csproj.AssemblyReference.cache
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气_MarkupCompile.cache
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气_MarkupCompile.lref
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.g.resources
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.AssemblyInfoInputs.cache
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.AssemblyInfo.cs
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.csproj.CoreCompileInputs.cache
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.dll
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\refint\PRD电气.dll
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.pdb
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.genruntimeconfig.cache
+C:\Users\Yoki Chau\source\repos\PRD电气\obj\Debug\net6.0-windows\ref\PRD电气.dll
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.exe
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.deps.json
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.runtimeconfig.json
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.dll
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\PRD电气.pdb
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气_MarkupCompile.cache
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气_MarkupCompile.lref
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.g.resources
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.AssemblyInfo.cs
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.dll
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\refint\PRD电气.dll
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.pdb
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.genruntimeconfig.cache
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\ref\PRD电气.dll
+C:\Users\admin\source\repos\PRD电气\bin\Debug\net6.0-windows\Microsoft.Toolkit.Mvvm.dll
+C:\Users\admin\source\repos\PRD电气\obj\Debug\net6.0-windows\PRD电气.csproj.CopyComplete
